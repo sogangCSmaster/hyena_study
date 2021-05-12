@@ -1,0 +1,5 @@
+datas = [{"nccLabelId":"LABEL-1","customerId":467737,"name":"즐겨찾기-1","color":"#E65050"},{"nccLabelId":"LABEL-2","customerId":467737,"name":"즐겨찾기-2","color":"#E6A050"},{"nccLabelId":"LABEL-3","customerId":467737,"name":"즐겨찾기-3","color":"#CCCC04"},{"nccLabelId":"LABEL-4","customerId":467737,"name":"즐겨찾기-4","color":"#5DD47D"},{"nccLabelId":"LABEL-5","customerId":467737,"name":"즐겨찾기-5","color":"#1ABA3D"},{"nccLabelId":"LABEL-6","customerId":467737,"name":"즐겨찾기-6","color":"#4887E0"},{"nccLabelId":"LABEL-7","customerId":467737,"name":"즐겨찾기-7","color":"#6C58C7"},{"nccLabelId":"LABEL-8","customerId":467737,"name":"즐겨찾기-8","color":"#CF81D6"},{"nccLabelId":"LABEL-9","customerId":467737,"name":"즐겨찾기-9","color":"#8C8C9D"},{"nccLabelId":"LABEL-10","customerId":467737,"name":"즐겨찾기-10","color":"#FF5959"}]
+
+
+for data in datas:
+    print(data['color'])
